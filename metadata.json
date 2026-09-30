@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Finder - Discover & Cook Delicious Meals",
+  "description": "A modern recipe discovery web app powered by TheMealDB API, React Router, and Axios. Search recipes, filter by category and cuisine, view detailed ingredients and instructions, and save your favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
